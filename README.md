@@ -39,5 +39,5 @@ here are the results
 ![Alt text](Resources/VBA_Challenge_2018_refactored.png)
 
 ## Summary
-The advantages of doing a refactored in a code is that you can be more efficient with variables and you can optimize times when they are large projects, otherwise a disadvantage is having to review line by line and maybe you can get stuck and leave the code worse
+The advantages of doing a refactored code is that you can be more efficient with variables and you can optimize times when they are large projects, otherwise a disadvantage is having to review line by line and maybe you can get stuck and leave the code worse
 
