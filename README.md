@@ -8,8 +8,11 @@ An original script for VBA analysis of Green Energy stock was created to analyze
 This analysis was performed to assess the performance of each stock based on its Yearly Volume, how often the stock gets traded, and its Yearly Return, the percentage increase (or decrease) in stock price from the beginning of the year to the end of the year.
 
 Below are screenshots of the VBA Analysis generated with the refactored code:
-![](vba_analysis_2017.png)
-![](vba_analysis_2018.png)
+![Alt text](Resources/vba_analysis_2017.png)
+
+![Alt text](Resources/vba_analysis_2018.png)
+
+
 
 we can conclude
 - Green Energy Stocks in general saw a significant decrease in performance in 2018 from 2017.
@@ -24,13 +27,16 @@ optimize times and process
 here are the results
 
 -2017 before a refactored code
-![](VBA_Challenge_2017.png)
+![Alt text](Resources/VBA_Challenge_2017.png)
+
 -2017 after a refactored code
-![](VBA_Challenge_2017_refactored.png)
+![Alt text](Resources/VBA_Challenge_2017_refactored.png)
+
 -2018 before a refactored code
-![](VBA_Challenge_2018.png)
+![Alt text](Resources/VBA_Challenge_2018.png)
+
 -2018 after a refactored code
-![](VBA_Challenge_2018_refactored.png)
+![Alt text](Resources/VBA_Challenge_2018_refactored.png)
 
 ## Summary
 The advantages of doing a refactored in a code is that you can be more efficient with variables and you can optimize times when they are large projects, otherwise a disadvantage is having to review line by line and maybe you can get stuck and leave the code worse
